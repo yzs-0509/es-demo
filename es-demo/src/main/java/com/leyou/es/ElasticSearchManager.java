@@ -67,14 +67,4 @@ public class ElasticSearchManager {
     public void end() {
         client.close();
     }
-	
-
-	 @Test
-    public void test() {
-       System.out.println(lisi);
-	}
-    public void test() {
-        System.out.println(zhangsan);
-
-    }
 }
